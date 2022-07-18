@@ -1,0 +1,41 @@
+.Button-module_buttonContainer__N1wEM {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center; }
+  .Button-module_buttonContainer__N1wEM .Button-module_button__18Bed {
+    font-size: 14px;
+    font-weight: bold; }
+    .Button-module_buttonContainer__N1wEM .Button-module_button__18Bed.Button-module_disabled__UzdWL {
+      background-color: gray;
+      cursor: not-allowed; }
+    .Button-module_buttonContainer__N1wEM .Button-module_button__18Bed.Button-module_default__TZZU2 {
+      background-color: aqua; }
+    .Button-module_buttonContainer__N1wEM .Button-module_button__18Bed .Button-module_sad__NT00p {
+      background-color: black; }
+    .Button-module_buttonContainer__N1wEM .Button-module_button__18Bed .Button-module_joyful__zaBic {
+      background-color: yellowgreen; }
+
+.Container-module_container__exPuE {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  box-sizing: border-box; }
+  .Container-module_container__exPuE .Container-module_row__FLFIa {
+    flex-direction: row; }
+  .Container-module_container__exPuE .Container-module_col__OEsK4 {
+    flex-direction: column; }
+  .Container-module_container__exPuE .Container-module_default__Qk3Ze {
+    background-color: white; }
+  .Container-module_container__exPuE .Container-module_light__DysE4 {
+    background-color: antiquewhite; }
+  .Container-module_container__exPuE .Container-module_dark__gmd6I {
+    background-color: grey; }
+  .Container-module_container__exPuE .Container-module_large__ppkyo {
+    padding: 40px; }
+  .Container-module_container__exPuE .Container-module_small__9XjQx {
+    padding: 10px; }
+  .Container-module_container__exPuE .Container-module_noPadding__lpIsj {
+    padding: 0; }

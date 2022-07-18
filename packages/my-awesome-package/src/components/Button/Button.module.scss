@@ -1,0 +1,28 @@
+.buttonContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    .button {
+        font-size: 14px;
+        font-weight: bold;
+
+        &.disabled {
+            background-color: gray;
+            cursor: not-allowed;
+        }
+
+        &.default {
+            background-color: aqua;
+        }
+
+        .sad {
+            background-color: black;
+        }
+
+        .joyful {
+            background-color: yellowgreen;
+        }
+    }
+}
