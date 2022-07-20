@@ -1,4 +1,4 @@
-# Introdunction
+# Introduction
 
 The repository provides an example of the custom JavaScript package made with [Rollup](https://rollupjs.org/guide/en/).
 
